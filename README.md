@@ -1,3 +1,3 @@
 # IMPORTANT
 
-𝐏𝐥𝐞𝐚𝐬𝐞 𝐝𝐨𝐧'𝐭 𝐣𝐮𝐝𝐠𝐞 𝐦𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐚𝐬 𝐈 𝐡𝐚𝐯𝐞 𝐝𝐞𝐝𝐢𝐜𝐚𝐭𝐞𝐝𝐥𝐲 𝐰𝐨𝐫𝐤𝐞𝐝 𝐟𝐨𝐫 𝐜𝐨𝐦𝐩𝐚𝐧𝐢𝐞𝐬, 𝐬𝐨 𝐈 𝐝𝐨𝐧'𝐭 𝐡𝐚𝐯𝐞 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐩𝐮𝐛𝐥𝐢𝐜 𝐚𝐩𝐩𝐬/𝐰𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬.
+### Please don't judge my Github profile as I have dedicatedly worked for companies, so I don't have personal public apps/workflows.
